@@ -1,1 +1,1 @@
-Bonjour comment ça va
+Bonjour
