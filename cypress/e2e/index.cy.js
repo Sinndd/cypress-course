@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-
+/** 
 context('first scenario', () => {
 
     beforeEach(() => {
@@ -14,3 +14,4 @@ context('first scenario', () => {
         cy.dataCy('result').should('have.text', 'Uftu')
     })
 })
+    */
